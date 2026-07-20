@@ -149,8 +149,8 @@ Detailed usage instructions here.
 [Add project screenshots if applicable]
 
 ## 📚 Documentation
-- [Setup Guide](docs/SETUP.md)
-- [API Documentation](docs/API.md)
+- [Setup Guide](SETUP.md)
+- [API Documentation](API.md)
 
 ## 👨‍💻 Author
 - **Student Name:** John Doe
